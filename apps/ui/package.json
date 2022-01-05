@@ -5,5 +5,11 @@
   "main": "index.js",
   "author": "Alexander Zeitler <alexander.zeitler@pdmlab.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "config": "*",
+    "eslint": "^8.6.0",
+    "tsconfig": "*",
+    "typescript": "^4.5.4"
+  }
 }
