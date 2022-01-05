@@ -6,5 +6,9 @@
   "repository": "git@github.com:PDMLab/turborepo-node-react-tailwind-starter.git",
   "author": "Alexander Zeitler <alexander.zeitler@pdmlab.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
 }
