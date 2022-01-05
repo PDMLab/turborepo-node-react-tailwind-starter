@@ -1,0 +1,9 @@
+{
+  "name": "ui-components",
+  "version": "0.0.0",
+  "description": "UI components",
+  "main": "index.js",
+  "author": "Alexander Zeitler <alexander.zeitler@pdmlab.com>",
+  "license": "MIT",
+  "private": true
+}

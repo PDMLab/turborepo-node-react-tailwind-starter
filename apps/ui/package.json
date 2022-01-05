@@ -1,0 +1,9 @@
+{
+  "name": "ui",
+  "version": "0.0.0",
+  "description": "UI",
+  "main": "index.js",
+  "author": "Alexander Zeitler <alexander.zeitler@pdmlab.com>",
+  "license": "MIT",
+  "private": true
+}
