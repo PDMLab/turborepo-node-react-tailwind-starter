@@ -1,0 +1,10 @@
+{
+  "name": "turborepo-node-react-tailwind-starter",
+  "version": "0.0.0",
+  "description": "A starter kit for turborepo, express, react and tailwind",
+  "main": "index.js",
+  "repository": "git@github.com:PDMLab/turborepo-node-react-tailwind-starter.git",
+  "author": "Alexander Zeitler <alexander.zeitler@pdmlab.com>",
+  "license": "MIT",
+  "private": true
+}
