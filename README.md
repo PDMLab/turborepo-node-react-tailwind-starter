@@ -55,3 +55,6 @@ packages
 
 ![Screenshot](assets/2022-01-12-13-49-33.png)
 `yarn watch` output
+
+![Screenshot](assets/2022-01-12-15-02-19.png)
+`http://localhost:3000` output
