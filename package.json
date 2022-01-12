@@ -9,15 +9,25 @@
   "private": true,
   "workspaces": [
     "apps/*",
+    "databases/*",
     "packages/*"
   ],
   "devDependencies": {
     "@commitlint/cli": "^16.0.1",
     "@commitlint/config-conventional": "^16.0.0",
     "husky": "^7.0.0",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "turbo": "^1.0.25"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "watch": "turbo run dev --parallel"
+  },
+  "turbo": {
+    "pipeline": {
+      "dev": {
+        "cache": false
+      }
+    }
   }
 }
