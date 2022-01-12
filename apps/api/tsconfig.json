@@ -1,5 +1,5 @@
 {
   "extends": "tsconfig/api.json",
-  "include": ["./src/*.ts"],
+  "include": ["./src/**/*.ts"],
   "exclude": ["node_modules"]
 }
